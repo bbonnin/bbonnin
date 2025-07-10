@@ -4,7 +4,6 @@ Some informations about me ;)
 
 ### 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://fr.linkedin.com/in/bruno-bonnin/en) 
-[![X/Twitter](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_bruno_b_)
 
 ### 💻 Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
